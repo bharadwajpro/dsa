@@ -16,7 +16,7 @@ app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
 });
 
-app.post('/googleac87b1d2968e5435.html', function(req, res){
+app.get('/googleac87b1d2968e5435.html', function(req, res){
 	res.sendFile(__dirname + '/googleac87b1d2968e5435.html');
 });
 
