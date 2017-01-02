@@ -1,0 +1,22 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "This website contains information about important Data Structures and Algorithms",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharadwajpro/dsa.git"
+  },
+  "keywords": [
+    "DSA"
+  ],
+  "author": "Krishna Bharadwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharadwajpro/dsa/issues"
+  },
+  "homepage": "https://github.com/bharadwajpro/dsa#readme"
+}
